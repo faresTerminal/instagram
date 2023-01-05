@@ -25,7 +25,7 @@ SECRET_KEY = 'ubj#=dh2v!8&09lw6q-keq(%37v14+29mw0i$n4-sqf)d+_p97'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['instagram-production-50a5.up.railway.app']
+ALLOWED_HOSTS = ['instagram-production-dae6.up.railway.app']
 
 
 # Application definition
